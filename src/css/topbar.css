@@ -8,6 +8,7 @@
     padding: 0 20px;
     background-color: #000000;
     padding-block: 0.25em;
+    max-height: 21.6px;
 }
 
 .topbar-container > * > h2 {
