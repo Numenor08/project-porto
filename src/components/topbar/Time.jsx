@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import LoadingRing from "./Loading";
+import LoadingRing from "@/components/Loading";
 
 const Time = () => {
   const [time, setTime] = useState();

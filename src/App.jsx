@@ -1,4 +1,4 @@
-import Topbar from "./components/Topbar";
+import Topbar from "./components/topbar/Topbar";
 import "@css/main.css";
 
 function App() {

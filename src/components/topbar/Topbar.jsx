@@ -1,5 +1,6 @@
 import "@css/topbar.css";
 import Time from "./Time";
+import IconGroup from "./IconGroup";
 
 const Topbar = () => {
   
@@ -12,9 +13,7 @@ const Topbar = () => {
         <div>
           <Time />
         </div>
-        <div>
-          <h2>Logo</h2>
-        </div>
+          <IconGroup />
       </header>
     </>
   );

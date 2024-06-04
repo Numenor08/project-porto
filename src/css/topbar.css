@@ -2,7 +2,7 @@
     display: flex;
     position: fixed;
     z-index: 1000;
-    width: 100%; /* Ubah dari 100vw menjadi 100% */
+    width: 100%;
     justify-content: space-between;
     align-items: center;
     padding: 0 20px;
@@ -15,4 +15,11 @@
     color: #dddddd;
     font-size: 0.75rem;
     font-weight: 500;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.25rem;
 }
